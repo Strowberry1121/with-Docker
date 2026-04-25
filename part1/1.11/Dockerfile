@@ -1,4 +1,4 @@
-# Dockerfile for exercise 1.11
+# Dockerfile for exercise 1.11 
 
 # Java baseline
 FROM amazoncorretto:8-al2023
